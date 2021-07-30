@@ -3,7 +3,6 @@
 A BMI Calculator that allows you to monitor BMI.
 
 All measurements use information about your body: gender, age, height and weight.
-App is designed for people of different ages and supports for both metric and imperial.
 
 Track your BMI and stay healthy!
 
