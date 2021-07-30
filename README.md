@@ -1,16 +1,17 @@
-# bmi_calculator
+# Know Your BMI
 
-A new Flutter project.
+A BMI Calculator that allows you to monitor BMI.
 
-## Getting Started
+All measurements use information about your body: gender, age, height and weight.
+App is designed for people of different ages and supports for both metric and imperial.
 
-This project is a starting point for a Flutter application.
+Track your BMI and stay healthy!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+![Screeenshot_1](https://user-images.githubusercontent.com/80099005/127656862-de720e94-f818-4699-b3af-f65d52275362.jpeg)
+
+![Screeenshot_2](https://user-images.githubusercontent.com/80099005/127656907-e74d5a5f-dda4-48a2-9f58-12685c1b8a82.jpeg)
